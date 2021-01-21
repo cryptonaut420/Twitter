@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/twitter",
+    "name": "cryptonaut420/twitter",
     "description": "Twitter OAuth1 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [
